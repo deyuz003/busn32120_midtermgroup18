@@ -1,8 +1,6 @@
 # Open Payments Analysis
 
-This repository contains analysis of CMS Open Payments data.
+This repository contains analysis of CMS Open Payments data for BUSN 32120 Midterm.
 
-- analysis.ipynb: data cleaning and Phase 2 analysis (payment types and specialties)
-- Phase 3 analysis to be added
-
-Raw data are not included due to file size.
+- Team Midterm 18: Quinn Gan, Ravi Reddy, Deyu Zhang
+- analysis.ipynb: the code used for midterm project is in this file.
