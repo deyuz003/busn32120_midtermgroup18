@@ -3,7 +3,7 @@
 This repository contains analysis of CMS Open Payments data for BUSN 32120 Midterm.
 
 - Team Midterm 18: Quinn Gan, Ravi Reddy, Deyu Zhang
-- analysis.ipynb: the code used for midterm project is in this file.
+- Midterm_Project_Group_18.ipynb: the code used for midterm project is in this file.
 
 We used generative AI as a coding and debugging assistant, consistent with the course policy allowing AI support for programming tasks. Specifically, we relied on AI to help translate analytical ideas into working Python code, diagnose errors, and refactor code when our initial implementations caused performance or kernel stability issues.
 
